@@ -47,3 +47,6 @@ compare_search("形態素解析")
 
 # パターン2：英語・新語を含むキーワード
 compare_search("LlamaIndex")
+
+# パターン2-b：英語・新語を含むキーワードの表記揺れバージョン
+compare_search("Llama Index")
